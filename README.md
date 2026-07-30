@@ -1,7 +1,5 @@
 # Hi, I'm Orazmammet Annayev 👋
 
-## Front-End Developer
-
 I am a Front-End Developer based in Ashgabat, Turkmenistan.
 
 I enjoy building modern, responsive, and user-friendly web applications. I am focused on improving my skills, learning new technologies, and creating clean and maintainable code.
@@ -18,9 +16,5 @@ I enjoy building modern, responsive, and user-friendly web applications. I am fo
 * Tailwind CSS
 * Bootstrap
 * Responsive Web Design
-
-## 📍 Location
-
-Ashgabat, Turkmenistan
 
 > I am always open to learning, collaboration, and new opportunities.
