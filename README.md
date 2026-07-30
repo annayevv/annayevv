@@ -19,15 +19,6 @@ I enjoy building modern, responsive, and user-friendly web applications. I am fo
 * Bootstrap
 * Responsive Web Design
 
-## 🌱 Currently Learning
-
-* Advanced Next.js
-* TypeScript
-* Modern Front-End Architecture
-* Clean Code Practices
-* Responsive UI Development
-
-
 ## 📍 Location
 
 Ashgabat, Turkmenistan
