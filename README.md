@@ -46,31 +46,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,vite" />
 </p>
 
----
-
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🛒 **ALSAT.tm** | E-commerce marketplace frontend: product galleries, sliders, image zoom, seller analytics | Laravel Blade, SCSS, JavaScript, Swiper.js |
-| 🏨 **Booking Platform** | Full booking system: web app, mobile app and API | TypeScript, Flutter, PHP |
-| 🎨 **[My Portfolio](https://github.com/annayevv/My-Portfolio)** | Personal portfolio website | HTML, CSS, JavaScript |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=annayevv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annayevv&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=annayevv&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   <i>“Clean code, smooth UI, happy users.”</i><br/>
   ⭐ Thanks for visiting my profile!
